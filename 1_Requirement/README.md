@@ -53,9 +53,7 @@ How : Can be operated from Personal computer or laptop.
 ## High Level Requirements :
 | ID | Description |
 | --- | --- |
-| HLR_1 | GRAPHICS : Realistic graphics can be added. |
-| HLR_2 | MODE : Different modes can be added. |
-| HLR_3 | DIFFICULTY LEVEL : We can add more obstacles in this game. |
+| HLR_1 | Description : The user can change its selected sign("0","x"). |
 
 ## Low Level Requiremnets :
 | ID | Description |
