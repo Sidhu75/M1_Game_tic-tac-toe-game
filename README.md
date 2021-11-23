@@ -48,4 +48,4 @@ combinations then that player wins. The combinations are:
  
  h) 1, 5, 9    i) 3, 5, 7
  
- 
+ ![GitHub repo size](https://img.shields.io/github/repo-size/Sidhu75/M1_Game_tic-tac-toe-game?style=flat-square)
