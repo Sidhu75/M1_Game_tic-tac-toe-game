@@ -33,7 +33,6 @@ Hence there are only three possible results – a player wins, his opponent
 | 4 | 5 | 6
 | 7 | 8 | 9 |
 
-https://img.shields.io/docker/pulls/Sidhu75/https://github.com/Sidhu75/M1_Game_tic-tac-toe-game.git?style=plastic
 
 
 *******************
