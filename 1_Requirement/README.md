@@ -51,13 +51,13 @@ How : Can be operated from Personal computer or laptop.
 ## Detail Requirements :
 
 ## High Level Requirements :
-| ID | Description |
-| --- | --- |
-| HLR_1 | Description : The user can change its selected sign("0","x"). |
+| ID | Description | Status |
+| --- | --- | --- |
+| HLR_1 | The user can change its selected sign("0","x"). | Implemented |
 
 ## Low Level Requiremnets :
-| ID | Description |
-| --- | --- |
-| LLR_1 | GRAPHICS : Graphics should be  compatable to the computer specification. |
-| LLR_2 | MODE : No of modes can be specified. |
-| LLR_3 | DIFFICULTY LEVEL : No of obstacles to be minimized the game score . |
+| ID | Description | Status |
+| --- | --- | --- |
+| LLR_1 | List of operations displayed | Implemented |
+| LLR_2 | Input from the user. | Implemented |
+| LLR_3 |Exit the program . | Implemented |
