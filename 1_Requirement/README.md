@@ -15,10 +15,12 @@ The game is played on a grid that's 3 squares by 3 squares. You are X, your frie
 1. To feel relax and  stress free we can play this game.
 2. This game is for fun purpose.
 3. We can access this game anytime.
+4. Perfect for basic programming exercises at initial stage of your learning process .
 
 Weakness :
 1. Playing game for hours can cause a trouble for eyes.
 2. This may lead eye problems.
+3. limited Features .
  
 
 
