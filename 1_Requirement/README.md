@@ -1,11 +1,16 @@
 
 TIC-TAC-TOE
 ## Introduction
-This is a simple tic-tac-toe game made in C language :
+1. This is a simple tic-tac-toe game made in C language :
 The game is to be played between two people (in this program between HUMAN and COMPUTER).
 One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
 The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
 If no one wins, then the game is said to be draw.
+2. Our project name is Tic-Tac-Toe game. This game is very popular and is
+fairly simple by itself. It is actually a two player game. In this game, there is
+a board with n x n squares. In our game, it is 3 x 3 squares.
+The goal of Tic-Tac-Toe is to be one of the players to get three same
+symbols in a row - horizontally, vertically or diagonally - on a 3 x 3 grid
 
 ## FEATURES
 The game is played on a grid that's 3 squares by 3 squares. You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner. When all 9 squares are full, the game is over.
