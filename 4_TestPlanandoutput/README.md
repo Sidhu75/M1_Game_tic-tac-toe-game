@@ -29,6 +29,9 @@
 # Case 3:
 ![image](https://user-images.githubusercontent.com/67543660/143075244-e8c62770-fb36-4ada-b48a-88a70bedfb87.png)
 
+# Case 4:
+![image](https://user-images.githubusercontent.com/67543660/143075346-b02f4bb5-3681-4617-bd9f-f5b884eade87.png)
+
 
 ## Output
 
@@ -44,5 +47,4 @@
 ## 5
 ![2021-11-23 (12)](https://user-images.githubusercontent.com/94374211/143076365-14a0cf95-e31c-4546-8e88-a3b4dd37eef7.png)
 
-# Case 4:
-![image](https://user-images.githubusercontent.com/67543660/143075346-b02f4bb5-3681-4617-bd9f-f5b884eade87.png)
+
