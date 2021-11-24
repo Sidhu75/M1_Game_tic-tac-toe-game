@@ -72,15 +72,12 @@ How : Can be operated from Personal computer or laptop.
 | ID | Description | Status |
 | --- | --- | --- |
 | LLR_1 | List of operations displayed | Implemented |
+| LLR_2 | Input from the user. | Implemented |
+| LLR_3 |Exit the program . | Implemented |
 
 
 behavioural Diagram
-
-
-
 ![Structural Diagram](https://user-images.githubusercontent.com/82743874/142980247-85675c44-f339-40d9-bba6-f746ae136bab.JPG)
 
 
-| LLR_2 | Input from the user. | Implemented |
-| LLR_3 |Exit the program . | Implemented |
 
