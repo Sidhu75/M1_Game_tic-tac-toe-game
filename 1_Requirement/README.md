@@ -12,8 +12,14 @@ a board with n x n squares. In our game, it is 3 x 3 squares.
 The goal of Tic-Tac-Toe is to be one of the players to get three same
 symbols in a row - horizontally, vertically or diagonally - on a 3 x 3 grid
 
+## RESEARCH
+
+It is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play tic-tac-toe perfectly or to enumerate the 765 essentially different positions (the state space complexity) or the 26,830 possible games up to rotations and reflections (the game tree complexity) on this space. If played optimally by both players, the game always ends in a draw, making tic-tac-toe a futile game.
+
 ## FEATURES
 The game is played on a grid that's 3 squares by 3 squares. You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner. When all 9 squares are full, the game is over.
+
+
 ## SWOT Analysis
 
  Strength :
