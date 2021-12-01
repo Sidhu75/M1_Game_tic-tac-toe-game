@@ -3,7 +3,7 @@
 ## Code Quality Score
  
   
- ![GitHub repo size](https://img.shields.io/github/repo-size/Sidhu75/M1_Game_tic-tac-toe-game?style=flat-square)
+ ![GitHub repo size](![GitHub repo size](https://img.shields.io/github/repo-size/Sidhu75/M2-Embedded_DcmotorInterfacingwithATMEGA328P))
  
  
  ![Code Quality Score](https://api.codiga.io/project/29858/score/svg)
